@@ -16,10 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>eos_black</item>
+        <item>eos_1</item>
+        <item>eos_2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Euphoria black - Dimitris</item>
+        <item>Euphoria black/blue - Dimitris</item>
     </string-array>
 </resources>
