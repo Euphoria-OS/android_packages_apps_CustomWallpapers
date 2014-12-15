@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>euphoria_black</item>
+        <item>eos_black</item>
     </string-array>
 
     <string-array name="info" translatable="false">
