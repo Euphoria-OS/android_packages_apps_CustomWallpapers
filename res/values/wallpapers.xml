@@ -18,10 +18,12 @@
     <string-array name="wallpapers" translatable="false">
         <item>eos_1</item>
         <item>eos_2</item>
+        <item>eos_3</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Euphoria black - Dimitris</item>
         <item>Euphoria black/blue - Dimitris</item>
+        <item>Euphoria multi - Dimitris</item>
     </string-array>
 </resources>
