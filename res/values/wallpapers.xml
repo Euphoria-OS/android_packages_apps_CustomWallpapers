@@ -19,11 +19,13 @@
         <item>eos_1</item>
         <item>eos_2</item>
         <item>eos_3</item>
+        <item>eos_4</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Euphoria black - Dimitris</item>
-        <item>Euphoria black/blue - Dimitris</item>
-        <item>Euphoria multi - Dimitris</item>
+        <item>Euphoria 1 - Dimitris</item>
+        <item>Euphoria 2 - Dimitris</item>
+        <item>Euphoria 3 - Dimitris</item>
+        <item>Euphoria 4 - Dimitris</item>
     </string-array>
 </resources>
