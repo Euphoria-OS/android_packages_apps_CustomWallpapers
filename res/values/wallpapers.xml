@@ -20,6 +20,7 @@
         <item>eos_2</item>
         <item>eos_3</item>
         <item>eos_4</item>
+        <item>eos_5</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -27,5 +28,6 @@
         <item>Euphoria 2 - Dimitris</item>
         <item>Euphoria 3 - Dimitris</item>
         <item>Euphoria 4 - Dimitris</item>
+        <item>Euphoria 5 - Dimitris</item>
     </string-array>
 </resources>
