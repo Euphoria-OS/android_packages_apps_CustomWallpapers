@@ -16,7 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Euphoria-Hintergrundbilder</string>
   <string name="set_wallpaper">Hintergrund festlegen</string>
   <string name="no_wallpaper">Kein Hintergrundbild</string>
 </resources>
